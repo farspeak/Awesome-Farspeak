@@ -7,6 +7,7 @@ If you want to run them & build AI apps quickly, you'll need to go to https://fa
 ### Tutorials
 
 1. Using JSON and talking to data via FARSPEAK RESTful API. https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/1.%20JSON%20structures.ipynb
+2. Prompting, templates, and PDF with FARSPEAK REST. https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/2.%20Prompting%2C%20templates%2C%20and%20PDF%20with%20FARSPEAK%20REST.ipynb
 
 ### Videos 
 
