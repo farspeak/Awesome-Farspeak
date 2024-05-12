@@ -10,10 +10,10 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
-| 1   | Using JSON and talking to data using FARSPEAK RESTful API | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/1.%20JSON%20structures.ipynb) |
-| 2   | Prompting, templates, and PDF using FARSPEAK REST | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/2.%20Prompting%2C%20templates%2C%20and%20PDF%20with%20FARSPEAK%20REST.ipynb) |
-| 3   | Talk to a file on the web using FARSPEAK REST | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/3.%20Talk%20to%20a%20file%20on%20the%20web.ipynb) |
-| 4   | Talk to websites in 5 minutes | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/4.%20Talk%20to%20websites%20in%205%20minutes.ipynb) |
+| 1   | Using JSON and talking to data using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/1.%20JSON%20structures.ipynb) |
+| 2   | Prompting, templates, and PDF using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/2.%20Prompting%2C%20templates%2C%20and%20PDF%20with%20FARSPEAK%20REST.ipynb) |
+| 3   | Talk to a file on the web using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/3.%20Talk%20to%20a%20file%20on%20the%20web.ipynb) |
+| 4   | Talk to websites in 5 minutes using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/4.%20Talk%20to%20websites%20in%205%20minutes.ipynb) |
 | 5   | Log reasoning steps using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/5.%20Log%20reasoning%20steps%20using%20FARSPEAK.ipynb) |
    
 ### Videos 
