@@ -21,5 +21,5 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | No. | Description                                      | Video Link |
 |-----|--------------------------------------------------|------------|
 | 1   | Uploading and Querying CVs with Python and Kernel | [Watch Video](https://www.loom.com/share/cb4939355be540acb3072f469abfddc3?sid=2c2c1059-a162-4c7a-819c-4bd9a0a9f311) |
-| 2   | Talk to file in REST mode | [Watch Video](https://www.loom.com/share/22f5934e42044d00bcf5c9a50f56f408) |
+| 2   | Talk to a file in REST mode | [Watch Video](https://www.loom.com/share/22f5934e42044d00bcf5c9a50f56f408) |
 
