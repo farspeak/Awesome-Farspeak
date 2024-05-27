@@ -15,7 +15,8 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | 3   | Talk to a file on the web using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/3.%20Talk%20to%20a%20file%20on%20the%20web.ipynb) |
 | 4   | Talk to websites in 5 minutes using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/4.%20Talk%20to%20websites%20in%205%20minutes.ipynb) |
 | 5   | Log reasoning steps using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/5.%20Log%20reasoning%20steps%20using%20FARSPEAK.ipynb) |
-   
+| 6   | Talk to PDFs using FARSPEAK | [View Notebook](https://github.com/farspeak/Awesome-FARSPEAK/blob/main/6.Talk_to_PDFs_in_no_time_at_production_scale_(REST_example).ipynb) |
+      
 ### Videos 
 
 | No. | Description                                      | Video Link |
