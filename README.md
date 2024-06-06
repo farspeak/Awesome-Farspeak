@@ -1,12 +1,12 @@
-# Awesome-FARSPEAK
+# Awesome-Farspeak
 
-Awesome FARSPEAK is a curated list of AI examples using FARSPEAK.
+Awesome Farspeak is a curated list of AI examples using FARSPEAK.
 
 If you want to run them & build AI apps quickly, you'll need to go to https://farspeak.ai/, create your app and get your FARSPEAK API token.
 
 You want to share your tutorial here? Say hi here: https://discord.com/channels/1108704867490471956/1108704867947663401 
 
-### Tutorials
+### Colabs
 
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
@@ -16,6 +16,13 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | 4   | Talk to websites in 5 minutes using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/4.%20Talk%20to%20websites%20in%205%20minutes.ipynb) |
 | 5   | Log reasoning steps using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/5.%20Log%20reasoning%20steps%20using%20FARSPEAK.ipynb) |
 | 6   | Talk to PDFs using FARSPEAK | [View Notebook](https://github.com/farspeak/Awesome-FARSPEAK/blob/main/6.Talk_to_PDFs_in_no_time_at_production_scale_(REST_example).ipynb) |
+
+### Projects using Farspeak
+
+| No. | Description                                      | Link |
+|-----|--------------------------------------------------|------|
+| 1   | NextJS To-Do List App | [View Repository](https://github.com/farspeak/nextjs-example) |
+
       
 ### Videos 
 
