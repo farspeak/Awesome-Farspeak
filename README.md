@@ -22,7 +22,7 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
 | 1   | NextJS To-Do List App | [View Repository](https://github.com/farspeak/nextjs-example) |
-
+| 2   | Farspeak CLI Tool | [View Repository](https://github.com/farspeak/farspeak-cli) |
       
 ### Videos 
 
