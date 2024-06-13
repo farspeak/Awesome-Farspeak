@@ -6,6 +6,13 @@ If you want to run them & build AI apps quickly, you'll need to go to https://fa
 
 You want to share your tutorial here? Say hi here: https://discord.com/channels/1108704867490471956/1108704867947663401 
 
+### Clients
+
+| No. | Description                                      | Link |
+|-----|--------------------------------------------------|------|
+| 1   | JS/TS Client | [View Repository]([https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/1.%20JSON%20structures.ipynb](https://github.com/farspeak/farspeak-js)) |
+
+
 ### Colabs
 
 | No. | Description                                      | Link |
