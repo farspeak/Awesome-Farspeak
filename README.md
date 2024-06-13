@@ -10,7 +10,7 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
-| 1   | JS/TS Client | [View Repository]([https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/1.%20JSON%20structures.ipynb](https://github.com/farspeak/farspeak-js)) |
+| 1   | JS/TS Client | [View Repository](https://github.com/farspeak/farspeak-js) |
 
 
 ### Colabs
