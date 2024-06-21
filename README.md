@@ -11,6 +11,15 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
 | 1   | JS/TS Client | [View Repository](https://github.com/farspeak/farspeak-js) |
+| 2   | NPM | [View Repository](https://www.npmjs.com/package/farspeak) |
+
+### Tools made with Farspeak
+
+| No. | Description                                      | Link |
+|-----|--------------------------------------------------|------|
+| 1   | NextJS To-Do List App | [View Repository](https://github.com/farspeak/nextjs-example) |
+| 2   | Farspeak CLI Tool | [View Repository](https://github.com/farspeak/farspeak-cli) |
+| 3   | Farspeak Scraper | [View Repository](https://github.com/farspeak/farspeak-scraper) |
 
 
 ### Colabs
@@ -24,12 +33,13 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 | 5   | Log reasoning steps using FARSPEAK | [View Notebook](https://github.com/FARSPEAK/Awesome-FARSPEAK/blob/main/5.%20Log%20reasoning%20steps%20using%20FARSPEAK.ipynb) |
 | 6   | Talk to PDFs using FARSPEAK | [View Notebook](https://github.com/farspeak/Awesome-FARSPEAK/blob/main/6.Talk_to_PDFs_in_no_time_at_production_scale_(REST_example).ipynb) |
 
-### Projects using Farspeak
+### Community projects
 
 | No. | Description                                      | Link |
 |-----|--------------------------------------------------|------|
-| 1   | NextJS To-Do List App | [View Repository](https://github.com/farspeak/nextjs-example) |
-| 2   | Farspeak CLI Tool | [View Repository](https://github.com/farspeak/farspeak-cli) |
+| 1   | ARC Prize Playground| [View Repository](https://github.com/farspeak/solvearc) |
+
+
       
 ### Videos 
 
