@@ -39,6 +39,13 @@ You want to share your tutorial here? Say hi here: https://discord.com/channels/
 |-----|--------------------------------------------------|------|
 | 1   | ARC Prize Playground| [View Repository](https://github.com/farspeak/solvearc) |
 
+### Tutorials 
+
+| No. | Description                                      | Video Link |
+|-----|--------------------------------------------------|------------|
+| 1   | Your own natural language search and knowledge base with Farspeak | [Read Article](https://farspeak.substack.com/p/your-own-natural-language-search) |
+| 2   | RAG intelligence in terminal | [Read Article](https://farspeak.substack.com/p/rag-intelligence-in-da-terminal-with) |
+| 3   | MongoDB Atlas Database to AI App | [Read Article](https://farspeak.substack.com/p/use-your-existing-mongodb-atlas-with) |
 
       
 ### Videos 
